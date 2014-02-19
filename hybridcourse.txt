@@ -1,0 +1,35 @@
+===== Running a Blended Course ======
+
+{{ :7704609288_14d335dd87.jpg?300 |}}
+<markdown>
+
+Running a "blended" course at WSU Vancouver requires no special permission. You may in fact be doing it now. There are a couple things worth mentioning, however.
+
+### Terminology
+
+While any class using some face-to-face elements is considered blended, for the purposes of class labelling any section that has replaced more than 75% of its meetings with web equivalents is considered "online" in the catalog.
+
+### Labeling Course Section as Hybrid
+
+If you are replacing more than 20% of the class sessions with online activities you should considering labeling your course in the catalog as hybrid. This serves two purposes for students. Some students seek out hybrid classes for the flexibility they provide, and this will help those students find your course. Other students find they do not do as well in hybrid scenarios and may wish to avoid such courses. It is also worth noting that there are still some students who do not have access to the internet in their home or apartment, and significant online work may pose a burden on them. 
+
+In any case, let your students know what to expect by labeling the course hybrid and using the section description field to detail any oddities of schedule or other requirements.
+
+### Explaining Your "Blend" On Your Syllabus
+
+If a course is hybrid, take time to explain to students either on the syllabus or in some other space what that means in the context of your particular course. For a course to be hybrid, work in class is replaced with work outside of class. Explain what that extra work looks like to the students. Outline their online responsibilities. Make it clear that the course is at least every bit as rigorous as a fully face-to-face version. 
+
+If a considerable amount of work requires self-direction, warn the students that with less face-to-face meetings it is very easy to fall behind, and provide them with some strategies to stay on top of assignments.
+
+Above all, be very clear about your expectations around work. As many have observed, students in online courses struggle most with organization and self-regulation. Have clear, written, findable documents detailing the requirements and schedule of the course is going to be key to their success. 
+
+### If You're Looking For Ideas, Stop by VDEN 207
+
+I love talking to faculty about their course designs. Very often I can point faculty to a resource or technique that helps them achieve what they want to in their class. You're also encouraged to attend the "Half-hour Lunch Hour" sessions on Thursday and Friday, sessions which provide quick surveys of current blended tools and techniques. 
+
+### Additional Resources
+
+[The Lightly Blended Course](?id=lightly-blended)
+
+*Graphic Courtesy Giulia Forsythe, CC-BY*
+</markdown>

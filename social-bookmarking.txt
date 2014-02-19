@@ -1,0 +1,39 @@
+<markdown>
+## Social Bookmarking for Student Understanding (Workshop Materials)
+
+### Core Presentation
+
+If you're already familiar with bookmarking and student curation of resources, you can jump to the main presentation:
+
++  [Five Ways For Your Students to Use Pinboard in the Classroom (and One Way Just For You)](?id=social-bookmarking-uses)
+
+If you are unfamiliar with social bookmarking, start with the Basic Bookmarking section.
+
+### Basic Bookmarking
+
+For best results, watch these in order, as they build off one another.
+
++ [Common Craft Video: Introduction to Social Bookmarking](http://blip.tv/common-craft-productions/social-bookmarking-short-version-594815) (Video, 2 min)
++ [Screencast: Why use Pinboard?](http://screencast.com/t/fXVRhvks) (Screencast, 5 min)
++ [Screencast: Some Quick Uses](http://screencast.com/t/sAuMnhmczLgJ) (Screencast, 5 min)
+
+### Classroom Uses
+
++ [Student Curation & Summary](http://screencast.com/t/Y7PqBtqlKGli) (Screencast, 5 min)
++ [Project Work & Classroom Discussion](http://screencast.com/t/FRs4i4g3) (Screencast, 5 min)
++ [Five Ways For Your Students to Use Pinboard in the Classroom (and One Way Just For You)](?id=social-bookmarking-uses) (Lesson plan examples)
+
+
+### Notes
+
+Saving this space to address any questions that come up in the presentations. 
+
+
+### Links
+
+Showing another use of bookmarking, I've actually embedded a set of links from Pinboard into this page. As I find new material and bookmark it, this page will automatically update. 
+
+</markdown>
+
+
+[filterrss https://feeds.pinboard.in/rss/secret:1c7b106895b48fe6c7af/u:holden/t:to:bn-social-bookmarking/]

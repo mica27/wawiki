@@ -1,0 +1,18 @@
+<markdown>
+## Online Courses, Spring 2014
+</markdown>
+There are thirteen courses labelled "Vancouver Online" in the catalog for Spring 2014.
+<csv>
+DISC, NUM, Course Name, Professor
+ANTH, 302, Childhood and Culture, B Hewlett  
+ANTH, 307,Contemporary Cultures and Peoples of Africa, B Hewlett  
+ANTH, 316, Gender in Cross Cultural Perspective, B Hewlett
+BIOLOGY, 101, Biology of Humans, W Cushwa
+ED_AD, 578, Higher Education Law and Ethics, X Neider
+ED_AD, 579, Administration of Higher Education, X Neider
+FOR_LANG, 410, Issues in Foreign Film and Literature, J Grenier-Winther
+PSYCH, 470, Motivation, A Terrill  
+PSYCH, 490, Cognition and Memory, S Lakatos  
+NURS, 455, Cultural Safety and Social Justice in Global Society,
+NURS, 598, Advanced Topics in Nursing,
+</csv>

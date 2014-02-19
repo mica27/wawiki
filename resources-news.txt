@@ -1,0 +1,15 @@
+<markdown>
+## Resources for Blended Instruction and Networked Learning
+
++ [Providing Feedback to Students](?id=resources-student-feedback)
++ [Writing Tools](?id=writing-tools)
++ [Group/Team Collaboration](?id=collaboration-tools)
++ [Creating Instructional Media](?id=creating-videos)
++ [Student Presentations](?id=presentation-tools)
++ [Real Time Feedback](?id=real-time-feedback-tools)
++ [Conferencing and Chat](?id=conferencing-tools)
++ [Research Process Tools](?id=research-tools)
++ [Social Media](?id=resources-social-media)
++ [Dealing with the Multi-campus Course](?id=multi-campus)
+
+</markdown>

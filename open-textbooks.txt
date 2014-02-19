@@ -1,0 +1,42 @@
+<markdown>
+## Open Textbooks and Courseware @ WSU Vancouver
+
+The text below will explain what open educational resources are and why they are important. If you already know what open educational resources are and wish to know what WSU Vancouver is doing in this area, [click here](?id=oer-plan). 
+
+### What Are Open Textbooks and Courseware? 
+
+"Open" textbooks are often billed as *free* textbooks, and while open textbooks are usually free, the concept of open is bigger than "free". What open textbooks allow is what [David Wiley](http://opencontent.org) refers to as the 4R's:
+
+* Reuse
+* Revision
+* Remix
+* Redistribution
+
+Open courseware takes the same approach to digital materials that might be included in your course. 
+
+### Why is this important? 
+
+#### Cost
+
+The most obvious issue is cost to students. For Washington State University students textbooks are a major part of their "Total Cost of Attendance" (ACA). The estimated cost of textbooks for a WSU student (2013) is $936 a year. Students in certain majors may pay much more. 
+
+As publishers move into selling online tools in addition to textbooks, these figures are increasing more quickly than tuition. Some publishers charge students over $150 for access to "homework tools" and "textbook sites" tools that students cannot even resell at the end of the semester. Every effort is made to hide the cost of these tools and publication from the professor, and professors are often shocked to find out how much the books in their class cost. New tricks, such as electronic access codes and "bundling", prevent students from buying works on the secondhand market.
+
+Open textbooks and courseware are generally provided free to students, with sometimes a small fee for study aids or printed copies. Use an open resource instead of a textbook is one of the quickest ways professors can reduce the cost of college to their students.
+
+#### Access 
+
+Because the cost of textbooks is so high, 70% of students admit to [not buying at least one of their textbooks](http://chronicle.com/article/7-in-10-Students-Have-Skipped/128785/) based on cost. These students, often disproportionately at-risk students, struggle to succeed in courses where the textbook is crucial to the course. 
+
+Open textbooks are available on day one to all students, regardless of how much they can spend. Although it's just a theory at this point, many believe the better outcomes we see with students using open textbooks is based at least in part on this advantage.
+
+#### Local Modification
+
+Open textbooks are not just "free as in beer". They are free as in "freedom" as well, allowing the 4R's modifications outlined by Wiley above. This is important particularly with electronic courseware. With open materials you are allowed to alter the materials to meet specific needs of your students, or to take advantage of your own speciality, or to mesh the course with local opportunities, such as service learning. 
+
+As publishers take over more and more of the curriculum, this piece becomes important. Professors and students are best equipped to understand their specific needs -- a curriculum which does not allow them to veer from the garden path can be damaging to the course. 
+
+
+
+
+</markdown>

@@ -1,0 +1,71 @@
+<markdown>
+## Four Ways For You and Your Students to Use Wikis in the Classroom 
+*by Michael Caulfield*</markdown>
+{{:wiki.png?300|}}
+<markdown>
+### What is a Wiki?
+
+When people hear the word "wiki" nowadays they usually think of Wikipedia. Wikipedia is probably the most prominent example of a wiki, but the association of Wikipedia with wikis often obscures the fact that wikis can be used for a variety of purposes, from planning events to documenting meeting goals to producing high quality references. They are most often used collaboratively, but the form also lends itself to any "emergent" task, where documentation grows [organically](?id=organic) over time. 
+
+As a prime instance of this, you are currently reading this on a wiki on which I am the only person with editing rights. The use of this wiki allows me to centralize documentation I produce, and the features of it make it very easy to keep it up to date. 
+
+Two key elements make a wiki a wiki. One is that, given the right permissions, any page you view is a page you can edit, with a simple click. The second is that links to resources that do not exist act, in the words of wiki inventor Ward Cunningham, as "[walls, not doors](http://www.youtube.com/watch?v=BdwLczSgvcc)." In other words, when you go to a page that doesn't exist in a wiki it doesn't send you an error message. It asks you if you'd like to create that page.
+
+What this changes, and changes somewhat radically, is the idea that an unfinished, incomplete,  or erroneous site is broken. On a wiki, if you see an error on a page, you don't complain about it -- you fix it. If you find information missing, you don't stomp off in a huff -- you post a link to the page you want created. When a person finds that page is missing, they don't contact a central authority; they write the required page.
+
+Many people have trouble moving from the learned helplessness of picking on an erroneous sites to the culture of DIY opportunity that wikis represent. But for those who embrace wiki-style collaboration, the benefits can be enormous, at least in the right type of project. Knowledge generation and transfer can become more fluid and dynamic. And because the wiki is designed to exist as a permanently incomplete document -- a snapshot of an understanding at a particular moment in time -- 
+
+[This short video](http://www.commoncraft.com/video/wikis) talks about one common way a wiki might be used. I encourage you to view it, even if you believe you already know what a wiki is. It documents one of the most common ways wikis are used in business.
+
+
+
+
+### Getting Started
+
+In most use scenarios, your class will share a single wiki. You have a number of options to create the wiki. Google has a product called [Sites](http://google.com/sites/) which provides wiki-like functionality. LMS's sometimes also provide wiki-like functionality as one of their features. 
+
+For faculty at WSU Vancouver however, I am recommending they talk to me and use either DokuWiki or MediaWiki, two products I can install on this site and that have several advantages over Google Sites. If you stop by VDEN 207, I can explain some of these advantages to you in person. 
+
+On the other hand, if you try Google Sites and love it, then go to it!
+
+
+### Four Ways For You and Your Students to Use Wikis in the Classroom
+
+#### 1. Write a Collaborative Document or Report
+
+There are a number of tools for collaborative writing out there at the moment (my favorite is [Draft](draftin.com), which has a revision and commentary interface to die for). But for many projects, especially those where considerable collaborative research is required up front, a document is the wrong space to start. In these cases you can have groups of students use wiki's to start to sketch out ideas and connect them. The students can stick with the wiki and bring it to a polished state, or at some point they may decide they have enough material organized that they are ready to draft. 
+
+#### 2. Organize (and Update) Class Materials
+
+We've talked [in other places](?id=coursehubs) about using a course hub to organize your course materials. For certain users, however, the always-evolving wiki may be a better fit. For those using dokuwiki, it doesn't have to be either/or -- the software allows a fairly fluid integration of blogs, social bookmarking, and other media, allowing it to become the portal site to other resources. 
+
+Using a wiki for your class materials also provides a number of benefits:
+
+* If used as a syllabus, students understand the wiki as a living document, not a cast-in-stone contract.
+* A revision history is logged so questions of the "When was project x's date changed" type are easily answered.
+* You can teach across institutional lines, sharing the same wiki, even though you are in different learning management systems.
+* Students can be invited into the wiki process, updating the wiki to serve their needs. 
+* If you keep your wiki open to the public, it becomes an act of open teaching. 
+
+##### Examples:
+
+In their True Crime course, teachers Jim Groom and Paul Bond are able to [make their syllabus a living document](http://murderinc.biz/wiki/True_Crime_Wiki), reflecting the various directions they take the course. 
+
+Here's [an example](http://cs.nyu.edu/~itpwiki/wiki/index.php/Course_Description_And_Syllabus) from an NYU Computer Science Class.
+
+Here's a [liberal arts example](http://slesyllabus.pbworks.com/w/page/14417779/SLE%20Schedule%20Current%20Quarter) from Stanford. 
+
+#### 3. Create Collaborative Class Notes
+
+One of the most interesting uses of a wiki at Keene State was by a Biology class that took collaborative notes. Each session there would be designated students (rotated selection) who would make a rough draft of what was said and what happened in class. This allowed the other students in the class to pay more attention and to use note-taking less as information capture and more as the research suggests students should -- as mental doodling that helps students to isolate the main points of a lecture or task. 
+
+While we did not run formal research on the collaborative class notes project, it was well-loved by the students, and the scores in the class were above historical averages. If you'd like to try a collaborative class notes project, let me know, and maybe we can set it up to get some research data as well. 
+
+#### 4. Produce a Public-Facing Reference Site
+
+Many classes we worked with at Keene State chose this option. Briefly, the way it works is this: your students find some area in which public information on the web is lacking -- local causes of homelessness, fair trade purchasing effects at the college level, or even the causes of a recent economic or political event. The students then endeavor to become experts in that area, and build out a wiki for the use of some target audience. 
+
+Such wikis can have real-world impact. The wiki that Keene State students put together on homelessness informed local policy-makers, pointing them to causes they were not aware of. At the University of Mary Washington, Steven Greenlaw's class became experts actually sought out by the press based on work they did on a wiki they put together in the weeks after the 2008 economic collapse.
+
+
+</markdown>

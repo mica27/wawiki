@@ -1,0 +1,11 @@
+<markdown> 
+## Web Literacy
+
+Web literacy has emerged as an important concern of both employers and legislators. In a recent PIAAC study, the United States ranked [near the bottom ](http://skills.oecd.org/documents/SkillsOutlook_2013_Chapter2.pdf) of OECD countries in problem-solving in technology rich environments (p. 87), with a large percentage of adults and adolescents unable to perform ordinary net-mediated tasks. 
+
+It's often stated that the younger generations of today are so comfortable with technology that they require no instruction or modeling regarding technology use. Nothing could be further from the truth. [Research](http://pbhpsych.wordpress.com/2013/04/09/digital-natives-wrong-label-harmful-label/) has [repeatedly](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2007.00793.x/abstract) [shown](http://oro.open.ac.uk/30014/) that younger generations are not substantially better than adults at using technology for academic and professional purposes, and may in many cases be much worse. Additionally, the differences between students in a generational cohort so outstrip the the differences *between* generational cohorts that the construct of the "digital native" is not useful in any pedagogically practical sense. 
+
+While we are still trying to define what something like web literacy actually looks like in practice, the [recent set of competencies](https://webmaker.org/standard) outlined by Mozilla are at the very least helpful to those who wish to start thinking about these issues. 
+
+</markdown>
+

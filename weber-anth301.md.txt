@@ -1,0 +1,11 @@
+## ANTH 301 / Wilkinson-Weber
+
+### Wiki for student collaboration
+
+Clare is using a MediaWiki installation to help students collaborate on a task that requires extensive discussion about cultural artifacts. We're hoping that the set up of the "talk" page on the wiki will be a more profitable place for that conversation than an Angel forum. 
+
+### Course Hub as a way to increase student engagement
+
+For Fall 2013, Clare is using a WordPress website as a tool to communicate with the class and disseminate assignments. This method, which we are referring to as building a "Course Hub", creates a different feel to the posts and conversations than they would have in Angel.
+
+![Wordpress site](lib/exe/fetch.php?media=global.png)

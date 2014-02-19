@@ -1,0 +1,49 @@
+<markdown>
+## Building a Course Hub
+
+### What is a Course Hub?
+
+As professors move towards teaching "in the open" they may find they need a site that brings together the multiple resources and communications produced by a course. Such resources might include documents, blog posts, twitter feeds, wikis, social bookmarks as well as more traditional communications. 
+
+### Why would I put a Course Hub on the open web? Whats wrong with putting it all in Angel/Blackboard/Canvas?
+
+Every class is different, and there are a variety of reasons people use open website to pull these streams together. 
+
+  * Authenticity
+  * Transparency
+  * Ease of Access
+  * Impact
+  * Integration issues
+
+### How do I get started?
+
+We have the resources to help you. 
+
+
+### Can you show me some examples? 
+
+#### Simple Hub
+
+Clare Wilkinson-Weber's Arts and Media class sports a [good example](http://anth301-fa13.com/) of a simple hub.
+
+
+</markdown>
+{{:anth.png?300|}}
+<markdown>  
+
+In [this hub](http://anth301-fa13.com/) links to classroom resources are shown in the menubar, while the mainpage serves as a prompt for students to react to questions the instructor asks and examples the instructor finds. Some pages are password protected so that the students can interact privately. 
+
+
+#### Syndication Hub
+
+[This hub](http://blendedandnetworked.com/va/) is a little more complex. 
+
+</markdown>
+{{:soc.png?300|}}
+<markdown> 
+
+
+
+
+Coming soon.
+</markdown>

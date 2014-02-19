@@ -1,0 +1,8 @@
+<markdown>
+## Real-time Feedback
+
++ Clickers
++ Socrative
++ PollEverywhere
++ Google Forms
+</markdown>

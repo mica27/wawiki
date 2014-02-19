@@ -1,0 +1,24 @@
+<markdown>
+## Using Open Course Materials
+
+### What are open course materials?
+
+--
+
+### What is the difference between free and open?
+
+--
+
+### Where do I find quality open course materials? 
+
+In general, you have to search multiple places. I've listed some below. However, please keep in mind that I have a good knowledge of this area and would be happy to help you. If you send me your syllabus, I'm happy to spend an hour or so seeing what I can dig up for use in your course. At the very least, I can give you some idea of what the situation in your specific course looks like and whether open materials are worth pursuing.
+
+Over time I plan to [put together pages](?id=opencourseware-by-course) that talk about materials in some of our commonly offered courses. 
+
+#### [OpenCourseWare Consortium](http://www.ocwconsortium.org/en/courses)
+
+A wide array of courses, and often your best bet for upper course coverage. However these materials are often very sparse: free powerpoints, but not free textbooks, free syllabi, but no free assessments. 
+
+
+
+</markdown>

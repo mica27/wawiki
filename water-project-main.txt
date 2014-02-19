@@ -1,0 +1,22 @@
+<markdown>
+## The Water Project
+
+The Water Project is an experiment in using networked learning to facilitate cross-institutional, cross-disciplinary course communities. In Spring 2014 we are trying to convince a number of classes from different disciplines to share common spaces on the web around this single issue, with the idea that multiple classes approaching this subject from different angles could produce some powerful synergies.
+
+Your class doesn't have to be *about* water to join. Perhaps you have a statistics class, and you're looking for an interesting web-enhanced final project -- we can help with that. Perhaps you have a course on global issues, and want to use water for one of those weeks as an example, but are wondering what web resources might be out there to assist you -- we can help with that. Maybe you have a writing or research class and are looking for a subject your students can dig into -- again, we're trying to put together a suite on web-based tools to help with that. 
+
+The idea is that many classes working together around a single issue like this can provide the sort of opportunities that might be hard to supply for a single class alone. 
+
+We already have a couple small projects going. There are links to some explanation about those projects below. But if you are WSU faculty I really encourage you to come by my office for a ten minute chat, or email me (michael.caulfield@vancouver.wsu.edu) and we'll set up a call. I'd rather hear about your class and think carefully with you about how this might support your class than push you to look at a number of things that may not be directly relevant -- it's better to work from your needs to a solution than from a solution to your needs. 
+
+But if you want to jump into the sea of options, or you're just curious to see how this might work, check out the links below. The best example of a cross-course project is probably Waterfeed. 
+
+* [Water Project Whitepaper](?id=waterproject)
+* [Water Project site mockup](http://water106.net/main/)
+* [Waterfeed](http://www.slideshare.net/MichaelCaulfield/what-waterfeed-is-and-how-it-can-turbocharge-your-class), a simple way to improve student writing and analysis. 
+* [Waterfeed sample site](http://waterfeed.org/)
+
+
+
+
+</markdown>

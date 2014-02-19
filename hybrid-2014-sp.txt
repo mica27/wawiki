@@ -1,0 +1,30 @@
+<markdown>
+## Hybrid Courses, Spring 2014
+
+There are nineteen courses labelled “Hybrid” (or describing a hybrid model in the comments) in the catalog for Spring 2014.
+</markdown>
+
+<csv>
+DISC, NUM, Course Name, Professor
+ACCTG, 550, Introduction to Financial and Managerial Accounting, J Cote  
+ACCTG, 537, Professional Research, D Sanders
+B_A, 501, Foundations in Marketing,
+B_A, 503, Foundations in Business Law,
+DTC, 354, Digital Storytelling, Hight  
+H_D, 205, Developing Effective Communication and Life Skills, T Tachiera   
+H_D, 385, Perspectives in Human Services, J Mcreynolds  
+H_D, 403, Families in Poverty, T Tachiera  
+H_D, 430, Professional and Grant Writing Skills, K Peterson  
+H_D, 449, Seminar in Early Childhood Education,	K Peterson  
+HISTORY, 305, Roots of Contemporary Issues For Transfer Students,A Whelchel  
+LATIN, 102, Second Semester Latin, J Grenier-Winther  
+MKTG, 360, Marketing, R Pimentel
+NURS, 572, Nursing Science: Research and Theory of Chronic Conditions (not labeled H but web-based videoconf),
+NURS, 587, Research Inquiry: Qualitative Methods I (not labeled H but web-based videoconf),
+PSYCH, 312, Experimental Methods in Psychology, S Lakatos  
+PSYCH, 333, Abnormal Psychology, K Schmaling  
+PSYCH, 464, Behavior Disorders of Children and Adolescents, E Soliday  
+SPANISH, 320, Latin American Cultures, 
+TCH_LRN, 546, Teaching Writing in the Elementary School, D Day-Wiff  
+UCOLLEGE, 300, Accessing Information for Research, A Phelps  
+</csv>

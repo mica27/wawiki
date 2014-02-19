@@ -1,0 +1,64 @@
+~~FEDERATION~~
+
+<markdown>
+### News, Resources & Research
+
++ [What's going on at WSUV](?id=wsuv-news)
++ [List of Resources & Tutorials](?id=resources-news)
++ [Trends and National Stories](?id=tn-news)
+
+
+
+### Support
++ [Running an Online Course](?id=onlinecourse)
++ [Running a Blended Course](?id=hybridcourse)
++ [Designing a Blended Course](?id=lightly-blended)
++ [Half-hour Lunch Hour Workshops](?id=workshop)
++ [Global Campus Resources](http://teach.wsu.edu)
++ [Building a Course Hub](?id=coursehub)
++ [Wikis in the Classroom](?id=wikiclassroom)
++ [Student Blogging](?id=studentblogging)
++ [Social Bookmarking](?id=social-bookmarking-uses)
++ [Using Open/Free Textbooks](?id=freetextbook)
++ [Google Hangouts](?id=googlehangouts)
++ [Web Literacy](?id=webliteracy)
++ [Questions?](?id=questions)
+
+
+### Workshop Materials
+
++ [Fall 2013](?id=workshop)
+
+
+### Faculty Innovators
+
+We're looking for faculty to share the innovative things they are doing with their classes here. More soon.
+<!--
+
++ [ANTH 301 / Weber](?id=weber-anth301.md)
++ POL_S / [Long](?id=long)
++ POL_S / [Baker](?id=baker)
++ HIST / Whelchel
++ SOC / Adrian
++ ED_AD / Nelson
++ ED_AD / Finley
++ ED_AD / Kucer
++ [B_A / Cote](?id=cote-mktg-506)
+
+-->
+
+### Major Projects
+
++ [Wikis in the Classroom](?id=Wikis_in_the_Classroom)
++ [Open Textbooks/Courseware](?id=open-textbooks)
++ Course Hubs
+
+### Courses
+
++ [Online (V)](?id=online-2014-sp)
++ [Hybrid](?id=hybrid-2014-sp)
+
+
+
+</markdown>
+

@@ -1,0 +1,122 @@
+<markdown>
+## The Water Project: A Distributed Approach to Issues-based Education
+
+Note: This is the project whitepaper. If you want to the summary version of what it is and how it might relate to your class, try [this page](?id=water-project-main)
+
+### Introduction
+
+As higher education faculty and staff, we talk a lot about interdisciplinary courses. We often talk about “issues-based” education. And we’ve been talking a long time about these things. 
+
+And for good reason. We know that creating engaging, meaningful experiences for students involves getting the students to connect what they learned in one course to what they learned in another. We know they want to see the impact of what they learn in their everyday life, and understand how disciplinary knowledge can help serve the greater good. “Problem-based” education is one of the most studied (and recommended) practices of the past forty years. And I’ve been hearing about the “issues-based” variant of PBL, where students study one issue in multiple classes through different disciplinary lenses, for as long as I have been in higher education. The approach just makes sense.
+
+### The All-or-Nothing Dilemma and the Curse of the One-off
+
+So why aren’t our campuses teeming with students studying global conflict through the multiple lenses of psychology, literature, and statistics? Why aren’t the majority of our students coming into a freshman year on climate change, tying together their work in history, geology, and political science?
+
+*It’s not because students don’t want it*. On the contrary, almost every student I’ve presented this idea to has been enthralled with it. They want to know where to sign up.  They understand that meaningful work on real issues will excite them, and that a single cross-course topic will help make the courses they are less interested in more meaningful and relevant by connecting them to the ones they value.
+
+*And it’s not for lack of faculty who want to do this*. I’ve worked at four different colleges and universities in my career, and visited many, many more. And everywhere I go I find faculty excited to connect their students to real problems and real research. They are excited about the idea of a topic tying multiple courses together. 
+But the two dominant models of accomplishing this change – curriculum revision and team teaching – have proved largely ineffective at creating large-scale change. 
+
+Curriculum development around issues-based education is a massive shared governance undertaking that has an equally massive chicken-and-egg problem. For plans to be implemented, faculty must see the interests of their discipline are well-served by the plan. But the impact of a top-down revision of curriculum that is not driven by departments or programs is likely to be so vast that it is hard to know what the implications will be. 
+
+Without implementation, faculty can’t have a sense of where they would fit in an issues-based general education program. Without a sense of where their disciplinary concerns would fit, they can’t approve implementation. Depending on the culture of the institution, this leads to either gridlock or to surface changes that do not actually impact what happens in the classroom.
+
+Team teaching, where two courses are combined into one course and taught by faculty from different disciplines, has had more success. Most people I’ve met who have team-taught across disciplines have come out of the experience changed, true believers in the cross-course topic approach. But many have also come away frustrated that, despite the success of the project, the project dies. Either the faculty can’t coordinate schedules every semester, or the department pulls the faculty off of the project to meet more pressing staffing needs. Again, the students give the course rave reviews, the faculty find it transforms their work – and yet time and time again cross-disciplinary team-taught classes become just another one-off, an experiment that never gains larger traction. 
+
+### Are Loosely-coupled Classrooms the Solution?
+
+It’s time for a better solution, one that allows faculty in typical undergraduate courses to engage with an issues-based core on their own terms. One that allows an issues-based curriculum to grow, organically, from the ground up.</markdown>
+
+{{:water106.png?500|}}<markdown>
+
+The Water Project (colloquially known as 'Water106') will be an internet-based, cross-institutional, cross-course community designed to empower students and faculty who want to engage in an issues-based curriculum without gutting their existing courses. Modeled largely on the ds106 Digital Storytelling project at the University of Mary Washington and the design of early “connectivist” MOOCs, the Water106 structure provides students and faculty an opportunity to engage in shared, meaningful, community-engaged tasks around issues of the culture, policy, science, and technology of water. Unlike traditional approaches to cross-disciplinary teaching, the model here is “loosely-coupled”, requiring up-front integration work by the project design team, but almost no coordination between the individual faculty teaching the courses. 
+
+Water106 will be organized around a number of shared tasks and assignments that students in various courses complete. You can see some of those channels for activity in the screenshot above. The rest of this paper will detail two of the channels – the Waterfeed and the Assignment Bank – demonstrating the ways in which the “loosely-coupled” approach provides an attractive path for integrating important issues into student coursework.
+
+
+
+### Low Threshold Activities: The Waterfeed Example
+
+While the idea of the project is to have faculty plug into the project in whatever way they see fit (bring me any idea, and we'll see what we can do!), we've sketched out a couple examples of how things might work. 
+
+One of the activities that Water106 will make available is called Waterfeed. 
+
+The Waterfeed task is simple, yet meaningful. Students install a small button on their browser that connects to a backend that allows them to annotate content on the web. When they find an interesting article of the web about the water issue they are studying, they read the article, then write a one to three paragraph summary of the work, optionally including personal commentary or analysis based on what they have learned in class, using the simple tool. 
+
+They then, with a simple press of a button, publish that summary, along with the link back to the original article, to the front page of the Waterfeed blog, where it appears along with all the other student contributions in a most recent article first format.
+ 
+Depending on the content and quality of the articles posted, Waterfeed has the potential to be a helpful reference to researchers, policy makers, and anyone else who wants to see this news in a quick scan format.  The real audience that Waterfeed serves also provides students authentic motivation to take care with formatting, language, and style, as well as to write clearly and carefully.  Students can write under pseudonyms if they want to, but if they choose to write their summaries under their own name, it also becomes an experience they can detail on their resume.
+
+That’s the process. So, what classes might want to provide Waterfeed assignments to their students? 
+
+There a broad variety of potential courses. It could be a freshman writing course that has a global issues outcome attached to it. Students in this case could use the site to learn how to summarize, a useful skill that is linked to overall writing competency, while meeting a global issues outcome on work that has an authentic component.
+
+Across campus, students in an engineering class might be summarizing articles for a different reason. In this class, year after year, the professor has found when it comes time to come up with a course project idea her students tend to choose projects that don’t demonstrate an understanding of the pressing problems in current water management. By sending students into Waterfeed to find and summarize two articles each a week for the first six weeks of the class she is exposing them to the broad array of problems and solutions currently in play.  When project time comes, the students are more likely to propose a project that has a real impact.
+
+At another school entirely, students in a public policy class might be summarizing policy-centric articles, and discussing them in their class. And here’s where things get interesting. The engineering students are required not only to post summaries, but to read a number of posts on the feed and comment on them. Reading one of the summaries, an engineering student notices that the public policy student has misunderstood a crucial point about how water from underground aquifers is extracted. So they leave a comment. Meanwhile, a student from an environmental studies course reads an engineering student’s summary of a recent “manmade wetland” project in San Francisco, and asks if the engineer can explain the math behind how engineers know if such projects will withstand flooding. 
+
+This is what we mean by loosely-coupled classes. None of these classes has made many compromises to participate. No faculty had to sit together and hash out how to synchronize Week 6 of the course between sections. Nothing required approval from the Faculty Senate. The process requires only that the professor request an administrative account in the Waterfeed system so that they can add their students as author/analysts to the site. That’s it. 
+
+Yet the sum of the parts is greater than the whole here. A summary blog managed only by one class would have a difficult time gaining a real audience. But a summary blog maintained by multiple classes has a serious chance at becoming a news destination. The backend infrastructure is too much to manage for a single class. Yet for multiple classes the work starts to show some economies of scale. More importantly, though the cross-disciplinary chatter is likely to be fairly minimal, the feeding of multiple students from multiple disciplines into the same activity provides an awareness to students of the ways in which different disciplines provide different ways of looking at the same problems. And perhaps most importantly of all, this loosely-coupled, cross-institutional structure models how students are likely to accomplish their work when they graduate. 
+
+### From Threshold Activity to Major Project: The Assignment Bank
+
+Much of Water106 is structured around the idea of providing multiple levels of possible engagement. Waterfeed is important because it provides a broadly applicable activity that students can engage in on a daily or weekly basis. The low threshold nature of the activity provides a way to keep the Water106 community going even when students are buried in class projects (they can still make time to do an article or two). Additionally, because students can choose (with the guidance of their teacher) what articles to summarize, Waterfeed can provide levels of challenge from writing up a short news “trend” piece to summarizing a complex piece of research released by the EPA or UC Davis. 
+
+The Assignment Bank is similar in many respects. But whereas Waterfeed provided a single central activity, the Assignment Bank provides a wide variety of assignments that allow students to explore subjects at different amounts of depth. 
+
+A typical use case for the Assignment Bank looks like this. A student is told by their teacher that they need to complete two “one-star” assignments and one “four-star” assignment. The student goes into the Assignment Bank and flips through possible assignments. The four-star assignments are hard, the one-star ones are relatively easy. The student decides to start with a one-star assignment. 
+
+Since the student is in a Geographic Information Systems class, the student goes to the GIS section of the Assignment Bank where they find over 25 different one-star assignments, written and vetted by a committee of GIS faculty and learning experts. They find a simple assignment they like: download a phone app called Creek Watch, and monitor the level and state of a nearby creek over the week.
+
+As part of this particular assignment, the student will not only post their data to Creek Watch, but will look at the information on the Creek Watch site and write a post about the experience of participating in a crowdsourcing project such as this. They will answer questions such as whether this is something they’d continue to do and whether crowd-sourcing is a good method for such tasks.
+ 
+They then click through and look at the work of the other students who have done this, and read some of the presentations. There’s a range of quality in the work – some students have taken pictures of the creek they are monitoring, put up videos, and written detailed reflections on the crowdsourcing experiment, others have done a lot less. But the student can look at the best quality work and get a sense of what top notch work looks like. They notice that other students have stated if they were to do it again, they would have probably done it for several weeks rather than just one, because the one week didn’t show enough variation, and they decide to stretch their observation out over three weeks.
+ 
+Note that this is one of many assignments in the bank. If they don’t have a phone, they can pick something else. If they don’t mind purchasing a $15 kit they can do the water testing assignment instead. If they do mind, they can do the Google Maps resource mapping project. In each case, they can see the work of the students before them, and read student reflections on that work.
+
+The student then moves into the four-star GIS assignments, and considers doing the Water Rates / Income Mapping Project, which maps known water rates against existing census data on median income to portray on a map where people will be hit the hardest by rate hikes. Clicking through to previous executions she’s excited by some of the cool maps people have come up with, and the interesting findings. Someone has already mapped out her home county, but she figures she can build on that work and do the county just to the north, which will make the data from both executions more meaningful.
+
+Again, I cannot stress enough that participation can happen at any level. It is possible a professor decides that his class is just going to do one assignment from the Assignment Bank – they may even pick it for their students. As long as the students are posting it back to the community, the community benefits. 
+The fundamental principles of the Assignment Bank in Water106 are listed below. 
+
+>*Other people’s attempts are visible, because assignments are conversations*. Here is the main point of the Assignment Bank. I go in as a student and look up an assignment. Perhaps the assignment is a high-effort one, like testing my local water for certain chemicals and posting the results on my blog. Here’s the key –when I look at that assignment, I can see all previous attempts. The idea is that the previous attempts help me to better formulate how to do the assignment, and perhaps improve on previous executions. In essence, my execution of the assignment enters into conversation with other executions of the assignment. (I know, heavy stuff – but everything from science to literature is a conversation, and that’s what we’re getting at here).
+
+>*Assignments are repeatable, and usually local applications*. So one corollary of previous attempts being visible is that assignments must be repeatable. They have to have multiple answers depending where you are. The assignment can’t be to calculate the how long it would take a Niagara-level flow to drain Lake Michigan, because once that is solved, it’s solved. 
+
+>The great thing about this is that it privileges local application. In the water test example above, as many people as want to do water testing can do it, because the results will differ based on where you live and the conditions of your delivery system. Another example (from the policy side) might be to investigate your local water rates and compare them to three other towns, talking about the pros and cons of each rate structure. You may share the same locality as someone else doing this activity, but again, as long as you choose different comparators you cannot just copy work. And as example upon example is provided over time, the database of rates and thinking about rates that is being generated makes the assignment more meaningful. 
+
+>That’s worth thinking about for a second: in this framework, with hundreds of students executing assignments in their own localities across the country, assignments get more meaningful over time.
+
+>*Assignments are non-sequential*. This is a limitation, but assignments are set up so that they can be executed in any order. Doing away with sequencing is essential to the loose-coupling described above. If assignments have to be executed all at the same time or in the same order, coordination of courses suddenly becomes almost insurmountably difficult, especially across institutions. Assignments such as testing local water get around this by requiring a smaller set of skills that the student is expected to acquire on a just in time basis.
+
+
+### Other elements
+ 
+I’ve barely touched on other elements of the course that we wish to get going in the second or third iteration:
+
+* WaterTV: a Web TV station that provides a way for students and others to present their projects (and an opportunity for a student curated YouTube-based schedule of water-related programming). Eventually a place that the classes could use to bring in both local and national experts. 
+* The Flow: the stream of student reflection and work posts from across the project, giving a global view of who is doing what in classes across the world. The Flow helps students to get a sense of what is happening in the course, and encourages them to connect with their fellow students.
+
+But these activities more or less follow the patterns described above – they are conversational, crowd-sourced, networked, and syndicated, a model not only of what a class can be, but of what the working world is increasingly looking like. 
+
+### Getting Involved
+
+We are still building the technical architecture for Water106, and will launch in earnest for the spring semester of 2014. However, there are already ways to participate:
+
+If you are a professor at WSU Vancouver, trust me, I will be pitching this to you in person soon. But let’s speed up the process. You can email me at michael.caulfield@vancouver.wsu.edu and we can meet and talk about ways this project could help support your class. The Waterfeed portion is ready to go this fall, so if that is interesting to you, we can put something together around that right away. We also need people to help us populate the Assignment Banks with questions, find us guest experts for Water106 TV, and help us work through the learning goals for the different disciplines.
+
+If you are a teacher/professor not at WSU Vancouver who wants to integrate some of this into her high school, undergraduate, or graduate class, contact me as soon as possible at michael.caulfield@vancouver.wsu.edu. As stated above, I will be pitching this project to WSU Vancouver faculty as they return for the fall semester, but the nature of this project is the more people that participate the more benefit everyone derives from it. So we are very interested in getting a broad institutional mix involved. We already have three or four tentative institutional commits for the spring. 
+
+If you are a student who wants in, but is not part of a class then just join up anyway. This is open education; that’s how it works!
+
+If you are an institute that deals with water policy, science, or engineering we would love your help with this project. You need to do outreach, and we need to engage our students in their communities. We’re just at the beginning of thinking how institutes and centers fit into Water106, but there seem to be some really interesting possibilities. To the extent we engage in service learning and community science projects, you may be able to show us where the fertile areas for exploration are. 
+
+If you are press,  and are interested in the course concept, or think you might be a potential reader of Waterfeed, contact me. 
+
+If you are none of the above we still want you. This is an open project, and we want everyone in. Anyone can act as a student or a teacher. Maybe this is just a subject that fascinates you. Maybe you’re a student leader interested in advocating change in campus water policy, and you want to use Water106 to raise awareness. Maybe you are a working water engineer who would like more insight into policy, or a policy analyst who would like more insight into engineering. Whatever your reason, we want you hear. We don’t judge, and we’re always looking for a new take on the issue. Again, contact me!
+
+
+
+</markdown>

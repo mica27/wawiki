@@ -1,0 +1,4 @@
+<markdown>
+## Recent articles of note on educational technology
+</markdown>
+{{rss>https://feeds.pinboard.in/rss/secret:1c7b106895b48fe6c7af/u:holden/t:to:bn-edtech/ 20 date description nm15}}

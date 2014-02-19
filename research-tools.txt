@@ -1,0 +1,25 @@
+<markdown>
+### Bookmarking and annotating
+
+Bookmarking and annotating online content is one of the most useful activities you can assign undergraduates. Not only does it build the important skill of summary, but social bookmarking tools will allow you to monitor their progress on research projects and intervene if necessary. Be sure to check out the article on how to use [social bookmarking in the classroom](?id=social-bookmarking). 
+
++ [Diigo](http://diigo.com)
++ [Delicious](http://delicious.com)
++ [Pinboard](http://Pinboard.us)
+
+### Archiving
+
++ [Archive.org](http://archive.org)
++ [Pinboard](http://pinboard.us)
++ [Webcite](http://www.webcitation.org/)
++ Zotero
+
+Web content is ephemeral, and this can be an issue for both student and faculty researchers. The simplest way to preserve content is to download it and save it you your drive, but there are substantial drawbacks to this approach: content can be easily lost and is difficult to reference by link on the web. Additionally, since you do research from a number of machines, it may end up spread out across multiple desktops, laptops, and thumbdrives. 
+
+
+
+### Visual Research
+
++ [Pinterest](http://sites.keene.edu/at/2012/04/20/pinterest-and-visual-research/)
+
+</markdown>

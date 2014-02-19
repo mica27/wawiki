@@ -1,0 +1,14 @@
+<markdown>
+## Joe Cote's MKTG 506 Class
+
+Joe has introduced a number of innovations into his courses over the years. 
+
+### Flipped Instruction & Mobile Learning
+
+One of the simpler things Joe has done is to produce a series of videos on "key concepts". These mini-lectures are recorded using iSpring 5.7, and distributed to the students in mobile-friendly formats. The student view (and review) these lectures outside of class, freeing up class time and providing useful Just-in-Time support for his students. 
+
+### Decision Architecture
+
+### The End in Mind
+
+</markdown>

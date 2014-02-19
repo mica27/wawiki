@@ -1,0 +1,97 @@
+===== Five Ways For Your Students to Use Social Bookmarking in the Classroom (and One Way Just For You)====
+
+{{ :bookmark.png?300 |}}
+
+====Getting Started====
+
+Step one for all of these activities is to get a [Pinboard](http://pinboard.us) account. Pinboard (not to be confused with *Pintrest*) is an online bookmarking tool that is easy to use and has some unique features. It currently costs about $10 an account for life. In other words, you pay $10 once and you get to use it forever. 
+
+I recommend getting one account for the entire class to share at first. Depending on how much you end up using Pinboard you may want to require student accounts down the road, but that is for another day. 
+
+====User and Group Tagging====
+
+Once you have set up your class Pinboard account, have your students choose user names. The students will tag the stuff they submit with their username. To make it easy to separate usernames from other tags, I recommend a convention that puts a "+" sign in front of their names (or, alternately, one that uses the Twitter "@" symbol. Usernames can be as opaque or transparent as the students desire, so long as you know who is who:
+
+  *  +mikecaulfield
+  *  +mcaul
+  *  +dylanfan
+  *  +io569
+
+If your students are in groups, they may also wish to have a group tag. Since Pinboard accepts inner punctuation in tags, you can do this any number of ways. I have had student groups name themselves after internet memes in the past, so you might see:
+
+  *  group:badlipreaders
+  *  group:bad-lip-readers
+  *  gBadLipReaders
+  *  [BadLipReaders]
+
+Just come up with a consistent format, and make sure your students apply it. 
+
+====Set Up the Browser Button====
+
+On the top of the Pinboard page is a "howto" link. Click it and read the very simple instructions on adding a bookmark to your browser bar. Add it to your browser. 
+
+Tell students to bring their laptops to the next class. Walk them through the installation of the bookmark link, signing into Pinboard, and using the link to save an article, add a description, and tag it with their username. Throw the Pinboard page up on the front screen and do not let students leave until they have successfully bookmarked something. 
+
+You're now ready to do any number of assignments. 
+
+====Five Ways For Your Students to Use Pinboard in the Classroom====
+
+===1. Tag a Relevant Article for Discussion===
+
+One of the simplest assignments. The students do reading in their subject, and then are required to find a news article, webpage, research piece, or Wikipedia entry that relates to the reading. They tag it with their name and then write a short description and explanation of how it relates to the material. 
+
+Before you start class, glance over the bookmarked articles and find ones of interest. Start your class by discussing the articles the students have found and get the students talking about them. 
+
+Grading on this can be done in a number of ways. It can form part of the participation grade (which is a way to make that grade more meaningful). You can also give extra credit to examples you use in class, or loop the grade into a project prep grade if the articles are meant to lead eventually to a project. 
+
+===2. Ask a Question About a Digital Text or Video ===
+
+With more texts, lectures, and assessments online, students can use bookmarking to raise questions about something they've read or attempted online. They bookmark the page as usual, but ask a question in the description field. If necessary, they can do this anonymously. 
+
+Since the browser bookmark is always available to them, this can reduce the friction of asking a question -- they don't have to log into the learning management system to ask -- they can ask as they hit the page. If other students have had trouble with the same page, their comments will come up as well. Have the students add on to the conversation in plain text. 
+
+
+{{ :ask_a_question.png?600 |}}
+
+===3. Compile Resources for a Project===
+
+One of the more frustrating issues with student projects is that during the information gathering stage students
+
+  * choose resources of low quality, and
+  * don't choose nearly enough resources
+
+Often you check in with the students on week two or three of the project only to find that they've gone down an unproductive path and will have to scramble to adjust, throwing out almost all of their previous work.
+
+Instead of having your students compile a list of resources they submit to you, consider having them bookmark and annotate their resources in Pinboard as they find them. This allows you to eavesdrop on the process of your student's research, and stage an earlier intervention if necessary. It also pushes the students to see the resource search as an ongoing process, executed on a daily basis, not a last minute scramble. If you are not seeing the Pinboard account fill up with bookmarks in the weeks before the project bibliography is due, you can address the problem. 
+
+=== 4. Submit Web-based Work Via Bookmark ===
+
+You can use an LMS like Blackboard or Canvas to have students submit their web-based work -- blog posts, infographics, Google Docs, annotated maps. But there are a couple things about this approach that are suboptimal. 
+
+First of all, the work is submitted to you, and not available to other students. In many cases you want the students to see each other's work as it comes in -- so that students can inspire one another, or inform one another's approach. You can resort to using links in forums for students to share resources, but this gets messy very fast, and makes it hard to find things later on. 
+
+Second of all, while Canvas will take a snapshot of the work your student submitted at the time they submitted it, many LMS's will not. For a small set of students, this lack of a snapshot may lead to problems down the road, with claims that the "work was there when I submitted it".  It may also make it difficult to review rationales for student grades if they have taken down the work. 
+
+If you buy an "archive" account with Pinboard, the local snapshot it takes of bookmarked pages provides a simple informal solution to these problems. 
+
+=== 5. Use it as a Blogging Platform ====
+
+We've come up with a technique that lets students blog using Pinboard bookmarking. It takes about 30 minutes to set up for a class -- a couple hours if you want to tweak the look. The students bookmark the page or thing they are reacting to, fill out the description with the text of their blog post, use a special tag telling Pinboard to post to the blog, and the post goes up. The posts your students make can flow into WordPress, Tumblr, or Blogger blogs. Or they can sit in Pinboard and post links to a Twitter feed. 
+
+This sounds crazy. I know. Why would you blog using a social bookmarking tool?
+
+Two reasons. The first is simplicity. For my own linklog, I actually use this method because there's very little friction in the process. I see something on the web that interests me, I click the bookmark link, write four or five sentences of reaction to it, and post. Doing it in this way makes it not a big deal, and reminds me that many of my posts are really just notes to myself. This is how I'm able to do the [Hapgood Linklog](http://hapgood.tumblr.com) every day in a way that takes almost no time at all. 
+
+{{ :hapgood.png?600 |}}
+
+The second reason is it pushes students to see blogging as a conversation. Their post is a reaction to something on the web -- a critique, analysis, a synthesis with other ideas. Their blog post starts with them responding to something else. Students far too often think their posts have to start from scratch; this way of blogging highlights the networked nature of it, and encourages them to use the momentum of their reaction to what they read as the basis of a post. 
+
+====And One Way Just for You====
+
+===1. Keep Class Resources Up-to-date===
+
+This is the one item that is about you, the teacher, more than the students. How many times have you put together a page of resources for students only to find it out-of-date as soon as it is posted? Instead putting your links in a document, put them on Pinboard and tag them. When you give presentations, add the useful links to your Pinboard account. In many LMS's (and most blogging platforms) you can even add an RSS feed of these resources that updates dynamically when you bookmark new stuff. 
+
+Going into some of these more advanced ways of using Pinboard is beyond the scope of this article, but you can start just by adding your resources into Pinboard, and sharing the link to that tag with your students. If you like the feel of that, talk to me about doing some of the fancier stuff. 
+
+(Original article by Michael Caulfield, but may have changed substantially. Licensed CC0: there is no need to attribute this article.)

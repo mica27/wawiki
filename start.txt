@@ -1,0 +1,60 @@
+<markdown>##Home</markdown>
+{{:doodle-bonnie-stewart.jpg?300|}}
+<markdown>
+### Welcome to the Blended and Networked Learning Site @ WSU Vancouver
+
+This site is meant to be a repository of information about technology-mediated education at WSU Vancouver. Here you will find information on what others are doing, and support materials to cook up your own experiments.
+
+**This is not meant to be a polished marketing site**, but rather **it is a reference  and resource guide** that you should expect to be in various states of completion and tidiness as it grows.  Pages will exist as stubs, text may be unfinished in places, formatting may be primitive. It is more important that we get up the important information you need than we adhere to a polished aesthetic.
+
+### What is blended and networked learning? 
+
+*Blended learning* refers to the practice of combining online and face-to-face elements in instruction. Many blended learning experiences replace some face-to-face time with online activities, but other models (such as "flipped classroom" or "web-enhanced") may keep face-to-face time constant while using online activities to change the nature of both online and classroom instruction. 
+
+For the purposes of WSU Vancouver, it's important to note that all courses designated "hybrid" are likely blended, but not all blended courses are hybrid. 
+
+*Networked learning* refers to the practice of using technology to connect students to educational contexts and resources outside the classroom. In networked learning high value is placed on students developing their own personal learning network -- the collection of tools, resources, and connections that allow them to access expertise and solve problems after leaving the classroom environment. 
+
+
+### What does the "director of blended and networked learning" do?
+
+A lot of things, depending on the day. The prime job of the director is to foster and support innovative and effective teaching on campus, particularly teaching which makes use of online technology. The job description sees that support as falling into a number of key areas:
+
+##### Teaching Innovation
+
+Each year we will be running a few specifically targeted projects that attempt to either introduce new practices to WSU Vancouver or to broaden the adoption of existing practices. To the extent these projects are successful, we may roll them over to next year. Unsuccessful projects will be re-evaluated or replaced. We're working on three projects in 2014: 
+
+ + Course Hubs
+ + Open Course Frameworks
+ + Cross-course communities
+
+<br><br>[If you want to be included in one of these efforts, just ask! And if you have an idea for an initiative, let me know. Initiatives must have broad applicability across campus, achievable goals, and a demonstrated track record of success at other institutions (or in other contexts)]. 
+
+##### Faculty Development
+
+The workshops are probably the most visible aspect of this, and do take time to put together and run. But the more important work tends to happen in personal consultations. Faculty come to me with their plan for a blended course, and we talk through it. We look for potential snags and additional opportunities. While I can't build the course for faculty, I can often point them to software and training resources they can use to achieve their end. When problems arise during the semester, we can often find solutions. We can also sometimes connect interested faculty to one another. Websites like this, which pull resources together for faculty, are also a substantial part of that effort. 
+
+##### Partnerships and External Outreach 
+
+In addition to doing the work above, we need to promote the work that we are doing to external audiences. To that end, I write about and present on what we are doing here to others. I talk to the press about our efforts. The stated goal in my job description is to have WSU Vancouver recognized as a regional (and potentially national) leader in the area blended and networked learning.  
+
+It was interesting to me that at the academic planning town hall many people agreed that this was an area we needed to build a reputation in if we wanted to be successful twenty years from now. If we wish to make this happen, it's important to stay connected to the broader blended learning community, and take every opportunity we can to talk about what we are doing. It's important to stay up on the latest research and trends and make sure what we are doing is supported by evidence and successes seen elsewhere.
+
+Partnerships are also key, and we are working to find areas of common interest between us and the local community colleges and school districts as well as looking to form profitable partnerships with other universities. More and more of the grant support for educational innovation is going to institutional partnerships (over single institutions) and if we would like to be a part of that process we need to form strong relationships with other prominent campuses.
+
+
+##### Infrastructure Development and Strategic Planning 
+
+A good example of this might be a meeting I had last week regarding accommodation of students with disabilities. Based on that conversation we're going to put into place some processes to make sure the technology we are using (and the way we are using it) takes the needs of these students into account. I'm also talking with IT to make sure our next generation classrooms support the sort of things we want to do. If you are involved in planning something that impacts blended or networked learning, let me know -- I'm happy to help out. 
+
+##### Global Campus Liaison
+
+Global Campus is charged to support us in many of these efforts, but (perhaps because of the distance) people are often unaware of what they offer, or unsure how to approach them. Additionally, we are still working out how best to work with GC, and need to build better communication between our two campuses. These issues won't be solved overnight, but part of my job is to work on them. 
+
+
+*Graphic Courtesy Giulia Forsythe, CC-BY*
+
+[Workshop Materials](?id=workshop.md)
+
+<small>[Edit Sidebar](?id=sidebar)</small>
+</markdown>

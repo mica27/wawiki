@@ -1,0 +1,144 @@
+<markdown>
+## Designing a Lightly Blended Course
+##### *by Michael Caulfield*
+
+Blended learning (sometimes called “hybrid learning”) is an instructional modality which makes use of both online and “face-to-face” elements. While there are many models for blended instruction, in this short article we want to deal with the common scenario where instructors replace one meeting of a three-meeting-a-week class with online activities. 
+
+One comment before introducing the process that follows: In an ideal world, you’d redesign your course from scratch when you blend it, breaking the course down into its objectives and designing a set of online/offline and in-class/out-of-class activities that advance these objectives, hopefully in a sequence that creates synergy between the online and offline elements. You’d take a whole course approach. 
+
+I realize, however, that we are not in an ideal world. The time is often not there, other obligations creep in, the textbook is already selected, etc. So, in the interest of encouraging you to experiment without having to reconstruct your entire class, we offer this somewhat abbreviated process and suggestions to guide your design of a blended course.
+
+### Step One: Identify Your Objectives Week by Week
+
+Pick a week of your course to start retooling. Don’t start with the first week, since the first week is often not indicative of the usual class structure. Take a week that you consider an average week of the course.
+If you don’t have objectives written out week by week, develop some. I’m neutral on what form these should take. Some faculty prefer to focus on Student Learning Outcomes (SLOs) which are phrased in terms of how the students will demonstrate achievement.  Examples of SLOs include:
+
++ Students will accurately predict the effect of different sample sizes on the distribution of a set of random events.
++ Students will be able to define the following: standard deviation, odds ratio, event independence.
+
+Alternatively, some faculty like to focus on the understanding:
+
++ Students will understand that:  
+ + Samples are subject to effects of random selection; increasing sample size can reduce these effects.
+ + When events are not independent, interpretation can be tricky.
+
+Vast holy wars have been fought over the “correct” format for course objectives. Moreover, you may have departmental or professional accreditation requirements that require you to write in the SLO format. One suggestion is to use an integrated system, like Grant and Wiggins’ Understanding by Design methodology, which mixes SLOs and “understandings” with concepts like “essential questions.”
+
+We don’t want to get hung up on that here. In general, as long as you think of a clear way that students can demonstrate the understanding or reach the objective, the format is less important than separating key objectives from more trivial stuff. 
+
+### Step Two: Map Your Objectives to What You Do In and Out of Class That Week
+
+Let’s take one of the understanding objective examples listed above:
+
++ When events are not independent, interpretation can be tricky.
+Your set of current activities might look like this:
++ Out of Class: Students read textbook, Chapter 2, 45-61
++ Out of Class: Students read article on “Cocaine Epidemic among 5th graders”
++ In-Class: Take questions about the reading.
++ In-Class: Discussion based on student questions
++ In-Class: Short Lecture on Event Independence
++ In-Class: Discussion on Event Independence
++ In-Class: Students break into small groups, and critique the Cocaine Epidemic article using sample size and event independence as conceptual tools. Students report out. 
++ Class discussion about media use of statistics.
++ Short Presentation on the famous “Monty Hall” problem.
+
+### Step Three: Spring Cleaning and Activity Replacement
+
+Now that you’ve listed out activities, resist the urge to simply look for things that can be moved online easily. One of the biggest mistakes first time blenders make is seeing something like “Discussion on Event Independence” on their list and thinking “Hey – there are discussion groups in ANGEL. I’ll just have the discussion online.” (Done!)
+
+Instead, think about the extent to which the activities you have listed currently work to achieve your objective. Then think of how, in the past, students have struggled despite your best efforts. Do they seem to get certain concepts in class, but forget them later? Are they unable to distinguish between problems of event independence and problems of sampling bias? 
+
+For example, when we look at the activities in this understanding objective example, we might find that the readings and the lecture are really targeting the same issues, and that the only reason for the lecture is because students have not completed the reading prior to class.  This problem might be solved by adding a reading quiz online, thereby incentivizing the students to do the reading before class. This is probably better than making the half of the class that did the reading sit through a lecture geared towards those that did not.
+We might also find that the “Questions about the reading” discussion at the beginning of class is often dominated by a few loud voices. Perhaps moving this to an online discussion with required participation will get more students interested in participating. So we move the discussion to an online forum. (Not because we can do it online, but because we think we can do it online more effectively.)
+
+And the “Monty Hall Problem” thing we do? It’s super cool, and we even have some [online video](http://tinyurl.com/mthall) (with Kevin Spacey!)  we use to introduce it. But thinking about what our students are struggling with, walking our students through a problem that career mathematicians often get wrong seems excessive. Let’s ditch it entirely.
+
+At this point, we’ve actually reduced the amount of activities, and cleared out some room for online activities: 
+
++ Out of Class: Students read textbook, Chapter 2, 45-61.
++ Out of Class: Students read newspaper article “Emerging Cocaine Epidemic among 5th graders Shocks School Board”
++ **Online: Students take reading quiz**
++ **Online: Students post questions about reading in online forum.**
++ <s>In-Class: Take questions about the reading.</s>
++ In-Class: Discussion based on student questions (from online)
++ <s>In-Class: Short Lecture on Event Independence</s>
++ <s>In-Class: Discussion on Event Independence</s>
++ In-Class: Students break into small groups, and critique the article Cocaine Epidemic article using sample size and event independence as concepts to dig into it. Students report out. 
++ Class discussion about media use of statistics.
++ <s>Monty Hall Problem presentation.</s>
+
+Now that we’ve removed most lecture and some discussion from the class, we’ve freed up some time. This is where your earlier thinking about typical student stumbling blocks in your previous classes comes into play. You’ve cleared forty minutes of presentation and discussion out of your class this week while adding only about five minutes of student work. 
+
+How do you want to use that reclaimed time in online activities? It depends what you believe to be the biggest issues.  For example:
+
++ Issue: Students struggle with the difference between problems of event dependence and problems of sampling bias. This seems weird to you, a scholar trained in statistics, but after thinking about it, you realize it happens a lot.  
+ + Possible solution: Put a pre-class quiz up online that pushes students to distinguish between the two issues, followed by a post-class quiz retake. 
+ + Possible solution: Film a mini-lecture of about 5 minutes that addresses this issue specifically, and post it on YouTube for them to watch.
+ + Possible Solution: Assign the Khan Academy videos and online assignments on this topic, and have students submit a screenshot of their score.  
++ Issue: Students involved in group discussions understand the cocaine article in class, but forget it by the next week.  
+ + Possible solution: Have the students seek out an article after class that involves a statistic. Have them post the article on their class blog and explain how dependence/independence relates to it. 
+ + Possible solution:  Have the students explain what they learned about the article on video, using paper clips, marbles, or some other set of household objects to demonstrate how one arrest at a school makes another arrest more likely. Have them post the video to YouTube and link you to it. 
+
+Obviously, you’re going to have to come up with schemes for grading these sorts of things that don’t dramatically increase your workload (options exist--we can talk). But the point here is to work from the point of view/perspective/etc. of what your students need help with, not from what you’re already doing in class. If begin from perspective of what you’re already doing in class, you will likely miss options that can better support your objective. 
+
+Here’s a sample revision for a blended approach to your objectives:
+
++ Out of Class: Students read textbook, Chapter 2, 45-61
++ Out of Class: Students read newspaper article “Emerging Cocaine Epidemic among 5th graders Shocks School Board”
++ Online: Students take reading quiz
++ Online: Students post questions about reading in online forum
++ In-Class: Discussion based on student questions (from online)
++ In-Class: Students break into small groups, and critique the article Cocaine Epidemic article using sample size and event independence as concepts to dig into it. Students report out 
++ Class discussion about media use of statistics
++ Online: Have your students explain what they learned about the article on video, using paper clips, marbles, or some other set of household objects 
++ Online (optional): Point students who need additional lecture to the Khan Academy video on dependent and independent events
+
+This revision has the added benefit of replacing lecture (limited effectiveness) with an activity where students must explain something to others (generally more effective). It also hopefully solves the problem of unprepared and disengaged students and few students participating in class discussion about the reading. 
+The sample above only illustrates how you might address/work with/etc. walking through one of the objectives in a single week (event independence). Now you can take the other objective (sampling and large numbers), and give it the same treatment. At the end of this process, you should have a redesigned week.
+
+### Step Four: Check your time
+
+It’s helpful after you do your redesign to check the amount of time students are expected to put into the course or course section you have redesigned. In general, given a 15 week semester, a three-credit undergraduate course should require an average student to put in between nine to twelve hours a week. These guidelines come to us both through accreditors and federal regulations. 
+
+As long as the total amount of time remains consistent, course instructors are free to decide on the types of activities, both online and offline, that comprise the expected effort.
+ 
+
+#### Example of time breakdown in a face-to-face and a blended class.
+
+</markdown> 
+
+<csv>
+Course Credits,Onsite Meeting Time,Study Time + Online Activities,Week Total
+3 (F2F), 3, 6 - 9, 9 - 12
+3 (Blended), 2, 7 - 10,	9 - 12
+</csv>
+
+<markdown>
+When calculating time for online readings, keep in mind that the average student will read much more slowly than you, particularly if the material is complex or unfamiliar. If you expect your students to not only read but to actually study the material, make sure you account for the re-reading in your time allotment, and be explicit with your students about the depth of reading the text requires. Various activities on the web or in the learning management system (e.g. ANGEL) may also have an amount of time associated with getting set up to do the activity (logging in, gathering materials, reading instructions), and this start-up time should be taken into account.
+
+At the same time, make sure you are not overestimating the time that class replacement activities take. If a student is already reading a text for a course, having the student post a two or three sentence reaction to that reading on a discussion board is probably not a good substitution for an hour of class time, whereas having the student edit and produce a video reaction or write a well-edited three paragraph response on a course blog and respond to some other students’ work might approach equivalency. When in doubt, execute the task yourself to get a sense of the time commitment.
+
+### Step Five: Repeat
+
+While this seems like a lot of work for one or two weeks of instruction, you’ll find that a lot of the thinking done in dissecting your first couple classes will inform future class preparation using the blended approach. The YouTube explanation video assignment you came up with in session two may make a nice repeated activity in sessions four, seven, and nine. Online reading quizzes may become the norm. A lot of the lecture may be eliminated and replaced with optional links to online resources. 
+
+Students will be more tolerant of having to learn new instructional modes if those modes are repeated, and thus valued, throughout the class. If you decide to have your student’s blog, or film reaction videos, or edit a wiki, don’t do it as a one-off activity. Make sure it is an activity they will repeat throughout the semester, and make sure they know they will repeat it throughout the semester. Make sure it has significant grade impact if it involves significant time. 
+
+The importance of repeating activity types cannot be stressed enough. Unless you are running a class on digital media, having your students do a discussion board one week, a blog the second week, a video the third, and a Skype session the fourth will take up a disproportionate amount of your preparation time and will also sink your class. For a number of pedagogical and practical reasons, your students will generally learn most from activities they are doing on a regular basis. Students may choose to bring in other skills (using their graphic design skills to produce an image for a wiki, for example), but the core of the activity should be stable.
+
+### Getting Assistance
+
+There are a number sources of support both on and off-campus for integrating online components into your course. 
+
++ Workshops & presentations. This is one of our primary modes of support. We will be offering a series of workshops and presentations on different aspects of blended course design over the semester. The schedule is still in development, but look for it the second week of classes. If you have a topic you would like covered, or would like to lead one of the presentations, contact me at michael.caulfield@vancouver.wsu.edu.
++ Consultations. If you would like to talk through some ideas you have for redesigning your class, shoot me an email, and we’ll set up a time for you to come by VDEN 207 and talk about it. We will walk through your learning goals, talk about ideas for technology integration, and I can show you any relevant models that might help you in your design and point you to resources. I may also be able to connect you to other people on campus engaging in similar projects. 
++ Open Office Hours. We will be setting up open office hours a couple times a week, where we will provide drop-in support for any issues you might be having with implementation. We will publish a schedule of this is short order. 
++ This wiki, obvi.
++ Global Campus. The Global Campus staff in Pullman would love to assist you – even if your course is not being run as a WSU Online course. Global Campus provides a variety of support for all WSU faculty. Go to http://teach.wsu.edu/ to learn about their full suite of services.
++ VIT. WSU Vancouver’s Information Technology department provides support for faculty who need assistance with ANGEL. Contact Michelle Eccles (meccles@vancouver.wsu.edu) for more information.
+
+If you don’t quite know where to go to get help with your particular issue, don’t hesitate to email me (michael.caulfield@vancouver.wsu.edu). If I cannot assist you, I may know someone who can. 
+Have a great semester start. I hope to talk to many of you soon!
+
+
+</markdown>

@@ -1,0 +1,13 @@
+<markdown>
+## Dealing with the Multi-campus Course
+
+This is a placeholder at the moment, but one thing that has come up repeatedly is how difficult many people find it to generate community and energy in multi-campus course delivered through inter-campus video.
+
+Some notes: 
+
+* Polling? 
+* Peer Instruction?
+* Back-channel feeds/questions? 
+* Hangouts-style interaction?
+* Tips from AMS?
+</markdown>
